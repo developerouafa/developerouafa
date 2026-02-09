@@ -38,3 +38,8 @@ I work primarily with **Laravel**, **Livewire**, **Vue 3**, and **Inertia.js**, 
 - Build production-ready web applications
 - Grow as a backend-oriented full-stack developer
 - Open to remote and freelance opportunities
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/developerouafa
