@@ -3,23 +3,23 @@
 ## 💼 Full-Stack Web Developer | Laravel, Livewire & Vue.js
 
 I am a passionate **Full-Stack Web Developer** specializing in building modern, scalable, and user-friendly web applications.  
-I work primarily with **Laravel**, **Livewire**, **Vue 3**, and **Inertia.js**, focusing on clean architecture and real-world problem solving.
+I work primarily with **Laravel**, **Livewire**, **Vue.js 3**, and **Inertia.js**, focusing on clean architecture and real-world problem solving.
 
 ---
 
 ## 🔧 Technical Skills
 
 ### Backend
-- Laravel 12
+- Laravel 
 - PHP
 - MySQL
-- Laravel Livewire
-- Authentication & Authorization
+- Redis
 - RESTful Application Concepts
 
 ### Frontend
 - Vue 3
 - Inertia.js
+- Livewire
 - JavaScript
 - HTML5 / CSS3
 - Tailwind CSS
@@ -31,6 +31,7 @@ I work primarily with **Laravel**, **Livewire**, **Vue 3**, and **Inertia.js**, 
 - MVC Architecture
 - Clean Code Principles
 
+-socket.io
 ---
 
 ## 🎯 Career Objectives
