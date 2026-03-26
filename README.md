@@ -31,6 +31,7 @@ I work primarily with **Laravel**, **Livewire**, **Vue.js 3**, and **Inertia.js*
 - MVC Architecture
 - Clean Code Principles
 
+AI
 -socket.io
 ---
 
